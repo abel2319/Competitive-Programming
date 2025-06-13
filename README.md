@@ -18,9 +18,6 @@ Each folder within this repository corresponds to a specific competitive program
 ## Platforms Covered
 
 - [Kattis](https://open.kattis.com/)
-- [Codeforces](https://codeforces.com/)
-- [LeetCode](https://leetcode.com/)
-- [AtCoder](https://atcoder.jp/)
 - ...
 
 ## Notes
