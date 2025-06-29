@@ -9,7 +9,7 @@ int main() {
         for (auto j : i) {
             cout << j << " ";
         }
-        cout << endl;
+        cout << v << endl;
     }
     return 0;
 }
