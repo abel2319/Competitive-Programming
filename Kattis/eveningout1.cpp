@@ -5,6 +5,9 @@ int main() {
     
     std::cin >> A >> B;
     
-    std::cout << B - (A % B);
+    if (A > B)
+        std::cout << B - (A % B);
+    else
+        std::cout << B - A;
     return 0;
 }
