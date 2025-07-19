@@ -1,15 +1,8 @@
 #include <iostream>
-#include <vector>
 using namespace std;
 
 int main() {
-    // Initialize a 2D vector of size 3 with each inner vector of size 2 and default value 5
-    vector<vector<int>> v(3, vector<int>(2, 5));
-    for (auto i : v) {
-        for (auto j : i) {
-            cout << j << " ";
-        }
-        cout << v << endl;
-    }
-    return 0;
+    unsigned long long n = 1000000000000000000;
+    cout << n;
+	return 0;
 }
