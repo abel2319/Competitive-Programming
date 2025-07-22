@@ -31,6 +31,11 @@ Each folder within this repository corresponds to a specific competitive program
 These solutions are for learning and reference purposes only. If you're using this repo to study, try solving the problems on your own before looking at the code.
 
 ---
+## Author
+Abel KPOHINTO
+github : [abel2319](https://github.com/abel2319)
+linkedin : [Abel kpohinto](https://www.linkedin.com/in/abel-kpohinto-79b2b8236/)
+---
 
 Happy coding! 🚀
 
