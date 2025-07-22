@@ -35,9 +35,9 @@ These solutions are for learning and reference purposes only. If you're using th
 
 Abel KPOHINTO
 
-github : [abel2319](https://github.com/abel2319)
+* github : [abel2319](https://github.com/abel2319)
+* linkedin : [Abel kpohinto](https://www.linkedin.com/in/abel-kpohinto-79b2b8236/)
 
-linkedin : [Abel kpohinto](https://www.linkedin.com/in/abel-kpohinto-79b2b8236/)
 ---
 
 Happy coding! 🚀
